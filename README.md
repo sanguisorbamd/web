@@ -7,4 +7,4 @@
 
 Тест-кейсы для проверки приложения "Интернет-магазин":
 
-[Тест-кейсы для разделов Cart Management и Order Management в формате pdf](https://github.com/user-attachments/files/16813532/G8-2024-08-30.5.pdf)
+[Тест-кейсы для разделов Cart Management и Order Management в формате pdf](https://github.com/user-attachments/files/16825496/G8-2024-08-31.pdf)
