@@ -11,4 +11,5 @@
 
 [тестовый прогон.pdf](https://github.com/user-attachments/files/16906052/2.pdf)
 
-[отчёт о дефектах.xlsx](https://github.com/user-attachments/files/16906054/2.xlsx)
+[отчёт о дефектах.xlsx](https://github.com/user-attachments/files/16909848/2.xlsx)
+
