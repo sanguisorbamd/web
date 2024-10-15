@@ -13,3 +13,15 @@
 
 [отчёт о дефектах.xlsx](https://github.com/user-attachments/files/16909848/2.xlsx)
 
+## Работа в Charles Proxy:
+
+[Изменение количества товаров в корзине](https://drive.google.com/file/d/1YHgSeX_1_akU6yrQ2uT0eCCIs53RlHhI/view?usp=drive_link)
+
+Возвращение 403 статус-кода:
+[способ 1](https://drive.google.com/file/d/1csjqE0T5MdeSviqzdQXx20Ewx6o0Ryxw/view?usp=drive_link)
+[способ 2](https://drive.google.com/file/d/10s3A7M4C4ZnHke4owacX4dCQ3Bee7fxV/view?usp=drive_link)
+
+[Смена окружения](https://drive.google.com/file/d/1ziQrtEJnc7fD1EZHxRiU3w4QMNhEvEKp/view?usp=drive_link)
+
+
+
